@@ -1,0 +1,19 @@
+Collecting pyinstaller
+  Downloading pyinstaller-6.16.0-py3-none-manylinux2014_x86_64.whl.metadata (8.5 kB)
+Collecting altgraph (from pyinstaller)
+  Using cached altgraph-0.17.4-py2.py3-none-any.whl.metadata (7.3 kB)
+Requirement already satisfied: packaging>=22.0 in ./venv/lib/python3.12/site-packages (from pyinstaller) (25.0)
+Collecting pyinstaller-hooks-contrib>=2025.8 (from pyinstaller)
+  Downloading pyinstaller_hooks_contrib-2025.9-py3-none-any.whl.metadata (16 kB)
+Collecting setuptools>=42.0.0 (from pyinstaller)
+  Using cached setuptools-80.9.0-py3-none-any.whl.metadata (6.6 kB)
+Downloading pyinstaller-6.16.0-py3-none-manylinux2014_x86_64.whl (733 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 733.8/733.8 kB 15.8 MB/s eta 0:00:00
+
+Downloading pyinstaller_hooks_contrib-2025.9-py3-none-any.whl (444 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 444.3/444.3 kB 29.1 MB/s eta 0:00:00
+
+Using cached setuptools-80.9.0-py3-none-any.whl (1.2 MB)
+Using cached altgraph-0.17.4-py2.py3-none-any.whl (21 kB)
+Installing collected packages: altgraph, setuptools, pyinstaller-hooks-contrib, pyinstaller
+Successfully installed altgraph-0.17.4 pyinstaller-6.16.0 pyinstaller-hooks-contrib-2025.9 setuptools-80.9.0

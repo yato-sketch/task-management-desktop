@@ -1,0 +1,114 @@
+[
+  {
+    "id": "5cbdf70a-32cd-49b9-b53d-2e7773e5ed20",
+    "title": "Complete project documentation",
+    "description": "Write comprehensive documentation for the new API endpoints and update the user guide",
+    "due_date": null,
+    "tags": [
+      "documentation",
+      "urgent",
+      "work"
+    ],
+    "status": "pending",
+    "created_at": "2025-10-03T20:15:51.446709",
+    "updated_at": "2025-10-03T20:15:51.446709"
+  },
+  {
+    "id": "e904aa84-339d-4a32-a57b-204d2c425ff4",
+    "title": "Review code changes",
+    "description": "Review all pending pull requests and provide feedback to team members",
+    "due_date": null,
+    "tags": [
+      "code-review",
+      "team",
+      "development"
+    ],
+    "status": "pending",
+    "created_at": "2025-10-03T20:15:51.446873",
+    "updated_at": "2025-10-03T20:15:51.446873"
+  },
+  {
+    "id": "979a3dcd-0afc-4326-b24a-fbbc940a45fc",
+    "title": "Update dependencies",
+    "description": "Update all project dependencies to latest stable versions and test compatibility",
+    "due_date": null,
+    "tags": [
+      "maintenance",
+      "security",
+      "updates"
+    ],
+    "status": "pending",
+    "created_at": "2025-10-03T20:15:51.447051",
+    "updated_at": "2025-10-03T20:15:51.447051"
+  },
+  {
+    "id": "008ab449-90ae-4d6b-87c7-4e911326de5d",
+    "title": "Plan team meeting",
+    "description": "Schedule weekly team sync and prepare agenda items for discussion",
+    "due_date": null,
+    "tags": [
+      "meeting",
+      "planning",
+      "team"
+    ],
+    "status": "pending",
+    "created_at": "2025-10-03T20:15:51.447254",
+    "updated_at": "2025-10-03T20:15:51.447254"
+  },
+  {
+    "id": "3ff2f5c4-723c-4c79-8555-9fc5c95cda08",
+    "title": "Learn new framework",
+    "description": "Study the latest version of the web framework we're using in our projects",
+    "due_date": null,
+    "tags": [
+      "learning",
+      "personal",
+      "development"
+    ],
+    "status": "pending",
+    "created_at": "2025-10-03T20:15:51.447526",
+    "updated_at": "2025-10-03T20:15:51.447526"
+  },
+  {
+    "id": "7b4f3459-781f-49c3-96ae-d712a4c6567d",
+    "title": "Fix bug in login system",
+    "description": "Investigate and fix the intermittent login issue reported by users",
+    "due_date": null,
+    "tags": [
+      "bug-fix",
+      "urgent",
+      "user-facing"
+    ],
+    "status": "pending",
+    "created_at": "2025-10-03T20:15:51.447795",
+    "updated_at": "2025-10-03T20:15:51.447795"
+  },
+  {
+    "id": "932bad2b-2163-4b90-9e47-4d50e4237ee1",
+    "title": "Write unit tests",
+    "description": "Add comprehensive unit tests for the new authentication module",
+    "due_date": null,
+    "tags": [
+      "testing",
+      "quality",
+      "development"
+    ],
+    "status": "pending",
+    "created_at": "2025-10-03T20:15:51.448099",
+    "updated_at": "2025-10-03T20:15:51.448099"
+  },
+  {
+    "id": "4c9b0507-4bdd-42ee-b429-7f9adfa90aa1",
+    "title": "Design new feature",
+    "description": "Create mockups and technical specifications for the user dashboard redesign",
+    "due_date": null,
+    "tags": [
+      "design",
+      "frontend",
+      "ui"
+    ],
+    "status": "pending",
+    "created_at": "2025-10-03T20:15:51.448494",
+    "updated_at": "2025-10-03T20:15:51.448494"
+  }
+]
