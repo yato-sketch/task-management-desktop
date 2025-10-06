@@ -43,6 +43,7 @@ def build_windows_app():
         "--windowed",                   # No console window (GUI app)
         "--name=TaskManager",           # Executable name
         "--icon=icon.ico",              # App icon (if exists)
+        "--manifest=app.manifest",      # Include manifest file
         "--add-data=tasks.json:.",      # Include tasks.json
         "--hidden-import=customtkinter",
         "--hidden-import=tkcalendar",
