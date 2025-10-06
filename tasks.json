@@ -79,9 +79,9 @@
       "urgent",
       "user-facing"
     ],
-    "status": "pending",
+    "status": "completed",
     "created_at": "2025-10-03T20:15:51.447795",
-    "updated_at": "2025-10-03T20:15:51.447795"
+    "updated_at": "2025-10-06T17:20:51.113575"
   },
   {
     "id": "932bad2b-2163-4b90-9e47-4d50e4237ee1",
@@ -96,19 +96,5 @@
     "status": "pending",
     "created_at": "2025-10-03T20:15:51.448099",
     "updated_at": "2025-10-03T20:15:51.448099"
-  },
-  {
-    "id": "4c9b0507-4bdd-42ee-b429-7f9adfa90aa1",
-    "title": "Design new feature",
-    "description": "Create mockups and technical specifications for the user dashboard redesign",
-    "due_date": null,
-    "tags": [
-      "design",
-      "frontend",
-      "ui"
-    ],
-    "status": "pending",
-    "created_at": "2025-10-03T20:15:51.448494",
-    "updated_at": "2025-10-03T20:15:51.448494"
   }
 ]

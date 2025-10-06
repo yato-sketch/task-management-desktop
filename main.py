@@ -276,7 +276,7 @@ class TaskManagerApp:
             messagebox.showerror("Error", f"Failed to load tasks: {str(e)}")
             self.update_status("Error loading tasks")
     
-    def apply_filters(self):
+    def apply_filters(self, value=None):
         """Apply current filters and refresh the display"""
         try:
             # Build filter
