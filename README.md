@@ -41,7 +41,7 @@ The application features:
 
 1. **Clone or download the project:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yato-sketch/task-management-desktop.git
    cd desktop-task-manage-app
    ```
 
